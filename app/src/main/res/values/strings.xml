@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GridViewHighlight</string>
+
+    <string name="dialog_title">請輸入</string>
+    <string name="dialog_content_column_text_view">請輸入行: </string>
+    <string name="dialog_content_row_text_view">請輸入列: </string>
+    <string name="dialog_content_hint_column">請輸入行</string>
+    <string name="dialog_content_hint_row">請輸入列</string>
+    <string name="dialog_positive_button_text_view">確定</string>
+
+    <string name="root_title_text_view">你所輸入的行:%1$s, 列:%2$s</string>
+    <string name="gridViewRandom">Random</string>
+    <string name="gridViewSelectButton">選擇</string>
+
+</resources>
